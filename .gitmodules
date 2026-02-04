@@ -5,3 +5,6 @@
 [submodule "mixgb"]
 	path = mixgb
 	url = https://github.com/agnesdeng/mixgb
+[submodule "vismi"]
+	path = vismi
+	url = https://github.com/agnesdeng/vismi
